@@ -7,16 +7,16 @@
 
 安装Emby Ubuntu X64命令
 
-   wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_amd64.deb
+     wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_amd64.deb
    
-   dpkg -i emby-server-deb_4.6.7.0_amd64.deb
+     dpkg -i emby-server-deb_4.6.7.0_amd64.deb
 
 
 安装Emby Ubuntu Arm64 (aarch64)
 
-   wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_arm64.deb
+     wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_arm64.deb
    
-   dpkg -i emby-server-deb_4.6.7.0_arm64.deb
+     dpkg -i emby-server-deb_4.6.7.0_arm64.deb
    
 安装破解脚本
 
