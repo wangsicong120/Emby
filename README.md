@@ -20,4 +20,4 @@
    
 安装破解脚本
 
-     wget -O ubuntu_crack.sh https://raw.githubusercontent.com/wangsicong120/Emby/main/ubuntu_crack.sh?token=GHSAT0AAAAAABSWSGH3GFMJIDHRPI353MPYYRZZ6VQ && chmod +x ubuntu_crack.sh && clear && ./ubuntu_crack.sh
+     wget -O ubuntu_crack.sh https://raw.githubusercontent.com/wangsicong120/Emby/main/ubuntu_crack.sh && chmod +x ubuntu_crack.sh && clear && ./ubuntu_crack.sh
