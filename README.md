@@ -5,6 +5,19 @@
 
 	yum install -y curl wget 2> /dev/null || apt install -y curl wget
 
-安装并运行脚本
+安装Emby Ubuntu X64命令
+
+   wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_amd64.deb
+   
+   dpkg -i emby-server-deb_4.6.7.0_amd64.deb
+
+
+安装Emby Ubuntu Arm64 (aarch64)
+
+   wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.6.7.0/emby-server-deb_4.6.7.0_arm64.deb
+   
+   dpkg -i emby-server-deb_4.6.7.0_arm64.deb
+   
+安装破解脚本
 
      wget -O ubuntu_crack.sh https://raw.githubusercontent.com/wangsicong120/Emby/main/ubuntu_crack.sh?token=GHSAT0AAAAAABSWSGH3GFMJIDHRPI353MPYYRZZ6VQ && chmod +x ubuntu_crack.sh && clear && ./ubuntu_crack.sh
