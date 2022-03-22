@@ -1,4 +1,4 @@
-echo "群晖 Emby 套件版一键破解脚本，适4.6.7版本"
+echo "Emby4.6.7版本"
 echo "-------------------web端破解-------------------"
 rm -f /opt/emby-server/system/Emby.Web.dll
 wget -P /opt/emby-server/system/ https://github.com/wangsicong120/Emby/blob/main/Emby.Web.dll
